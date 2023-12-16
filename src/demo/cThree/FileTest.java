@@ -1,6 +1,7 @@
 package demo.cThree;
 import java.io.File;
 import java.io.IOException;
+//2023.12.7
 public class FileTest {
     public static void main(String[] args)throws IOException {
         //创建文件对象
@@ -25,4 +26,5 @@ public class FileTest {
             file.delete();
         }
     }
+
 }
