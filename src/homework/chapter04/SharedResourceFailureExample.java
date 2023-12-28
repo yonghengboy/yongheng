@@ -12,6 +12,11 @@ public class SharedResourceFailureExample {
 
         thread1.start();
         thread2.start();
+
+
+        //合2为一  写法
+        new Thread(new ListModifier(),"线程1").start();
+        new Thread(new ListReader(),"线程二").start();
     }
 
     static class ListModifier implements Runnable {

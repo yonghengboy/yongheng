@@ -1,4 +1,4 @@
-package demo.dcollectionDemo;
+package demo.chapter03.dcollectionDemo;
 
 public class Stu_Map {
     public static void main(String[] args) {

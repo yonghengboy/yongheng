@@ -3,7 +3,7 @@ package demo.chapter04;
 public class SleepThread {
 
     public static void main(String[] args)throws Exception {//直接抛出异常throws Exception
-        new Thread(new Task2()).start();
+        new Thread(new Task2()).start();//二合一写法
         for (int i = 1;i<=10;i++){
             if (i==5){
                 Thread.sleep(2000);//当前线程休眠两秒

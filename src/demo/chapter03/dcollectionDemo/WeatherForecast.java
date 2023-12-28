@@ -1,4 +1,4 @@
-package demo.dcollectionDemo;
+package demo.chapter03.dcollectionDemo;
 
 import java.util.HashMap;
 import java.util.Map;
