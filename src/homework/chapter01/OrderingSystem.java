@@ -2,6 +2,8 @@
 package homework.One;
 import java.sql.SQLOutput;
 import java.util.Scanner;//获取键盘 导包
+*/
+/*
 项目需求
 * 开发一个”网上订餐管理系统“，实现”我要订餐“、”查看订单“、”签收订单“、”删除订单“、”我要评价“和“退出系统”6个功能。
 *   1.我要订餐
@@ -17,6 +19,8 @@ import java.util.Scanner;//获取键盘 导包
 *   3.签收订单
 *   4.删除订单
 *   5.我要评价
+*//*
+
 
 
 public class OrderingSystem {
